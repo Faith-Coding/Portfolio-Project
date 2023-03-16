@@ -23,7 +23,10 @@ h1 {
   font-size: 96px;
 }
 h2 {
-  font-size: 64px;
+  font-size: 48px;
+}
+h4 {
+  font-size: 22px;
 }
 p {
   font-weight: normal;
@@ -60,6 +63,16 @@ nav a{
 nav a:hover, nav li.active a{
   text-decoration: underline;
   color: var(--branding-color)
+}
+footer .contact-box p{
+margin: 0;
+
+}
+footer .contact-box{
+background: var(--secondary-color);
+padding: 30px 120px;
+border-radius: 10px;
+
 }
 footer .email-link{
   text-decoration: none;
@@ -185,5 +198,6 @@ padding: 50px 20px;
 nav a{
   font-size: 14px;
 }
+
 }
 
