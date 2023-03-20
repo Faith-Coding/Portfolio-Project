@@ -139,21 +139,6 @@ background-color: var(--branding-color);
   font-family: var(--default-font-family);
   
 }
-.contact-btn{
-  border-radius: 4px;
-  border: 1px solid var(--branding-color);
-  color: var(--branding-color);
-  font-size: 18px;
-  line-height: 27px;
-  padding: 18px 20px;
-}
-.content-container .contact-btn{
-  
-  text-align: center;
- display: block;
-
-}
-
 .content-container  p{
   font-size: 18px;
   font-family: var(--default-font-family);
